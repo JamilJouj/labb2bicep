@@ -1,4 +1,4 @@
-1. logga in med azure cli az login
+1. logga in med azure cli 'az login
 2. välj rätt subscription
 3. kör detta kommando 3x byt test > dev > prod
 
